@@ -22,14 +22,14 @@
     "express": "^4.16.3",
     "file-type": "^10.4.0",
     "frida": ">=12.x",
-    "got": "^10.7.0",
+    "got": "^14.2.1",
     "js-yaml": "^3.13.1",
     "lzma-native": "^8.0.1",
     "md5": "^2.2.1",
     "mime-types": "^2.1.20",
     "properties": "^1.2.1",
     "r2pipe": "^2.8.0",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
